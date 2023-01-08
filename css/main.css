@@ -8431,6 +8431,30 @@ textarea.form-control-lg {
   padding: 1rem !important;
 }
 
+.cfs-0 {
+  font-size: 0.5rem !important;
+}
+
+.cfs-1 {
+  font-size: 1rem !important;
+}
+
+.cfs-2 {
+  font-size: 1.5rem !important;
+}
+
+.cfs-3 {
+  font-size: 2rem !important;
+}
+
+.cfs-4 {
+  font-size: 2.5rem !important;
+}
+
+.cfs-5 {
+  font-size: 3rem !important;
+}
+
 @media (min-width: 576px) {
   .float-sm-start {
     float: left !important;
@@ -11047,11 +11071,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-body {
-  margin: 0;
-  padding: 0;
+a {
+  text-decoration: none;
 }
 
-h1, .h1 {
-  border: 1px solid #401f7c;
+header * {
+  color: #f4f4f4;
 }
